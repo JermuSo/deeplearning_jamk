@@ -9,16 +9,15 @@
 
 **ASETA TÄNNE RYHMÄN JÄSENTEN NIMET!**: *Opiskelijan nimi tai Opiskelijoiden nimet sekä JAMK-opiskelijatunnukset*.
 
-* *Matti Meikäläinen (ABC1234)*
-* *Kirsi Kerneli (BCD1234)*
+* *Jere Soininen (AB6802)*
 
 Tästä GitLab-Repositorysta löytyvät opintojakson tehtävien pohjat **Jupyter Notebook**-tiedostoina. 
 
 Muuta forkattuun repositoryyn heti tehtävän alkuvaiheessa opiskelijan nimi/nimet kaikkiin Jupyter Notebook (_ipynb_) -tiedostoihin.
 
      # Kirjoita tähän tietosi!
-     student_name = 'Opiskelijan nimi tai Opiskelijoiden nimet'  # Oma nimesi
-     student_id = 'JAMK-opiskelijatunnus tai JAMK-opiskelijatunnukset' # Oma opiskelijatunnuksesi JAMK:ssa
+     student_name = 'Jere Soininen'
+     student_id = 'AB6802'
 
 
 ### Harjoitukset
