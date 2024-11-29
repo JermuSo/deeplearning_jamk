@@ -9,6 +9,10 @@ datasets
 *~
 *.bak
 
+# 29.11.24 Jere
+# Ignoroi kaikki data-kansion sisällöt
+osa_4/data/*
+
 ### Django ###
 *.log
 *.pot
